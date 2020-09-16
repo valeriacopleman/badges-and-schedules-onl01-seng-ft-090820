@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 def badge_maker(name)
@@ -35,3 +36,10 @@ def printer(attendees)
   end
 end
   
+=======
+def badge_maker(name)
+  puts "Hello, my name is #{name}."
+end
+
+
+>>>>>>> 6b889541d46a8dfe85f851a64d3b5366d8fb85c9
